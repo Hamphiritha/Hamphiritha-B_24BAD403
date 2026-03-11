@@ -33,6 +33,8 @@ Observations
 
 
 
+
+
 SCENARIO 2: Hospital Patient Records
 
 Objective
@@ -67,6 +69,8 @@ Observations
 
 
 
+
+
 SCENARIO 3: Housing Dataset
 
 Objective
@@ -92,6 +96,8 @@ Observations
     o	Number of rooms and price
 
 •	Visualization helped clearly identify predictors for price estimation
+
+
 
 
 

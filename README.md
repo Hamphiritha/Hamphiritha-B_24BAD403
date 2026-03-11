@@ -3,11 +3,11 @@ Introduction to Python Libraries and Dataset Preprocessing
 
 SCENARIO 1: E-Commerce Sales Data
 
-Objective
+Objective :
 
 Analyze product sales trends and detect missing information in an e-commerce dataset.
 
-Steps Performed
+Steps Performed :
 
 •	Imported Pandas, NumPy, and Matplotlib
 
@@ -25,7 +25,7 @@ Steps Performed
     
     o	Line chart
 
-Observations
+Observations :
 
 •	Missing values were found in the Description and CustomerID columns
 
@@ -39,11 +39,11 @@ Observations
 
 SCENARIO 2: Hospital Patient Records
 
-Objective
+Objective :
 
 Identify missing health metrics and analyze patient health patterns.
 
-Steps Performed
+Steps Performed :
 
 •	Loaded dataset into Pandas
 
@@ -61,7 +61,7 @@ Steps Performed
 
 •	Analyzed mean health metrics grouped by outcome
 
-Observations
+Observations :
 
 •	Zero values were present in Glucose, BloodPressure, BMI, Insulin
 
@@ -79,11 +79,11 @@ Observations
 
 SCENARIO 3: Housing Dataset
 
-Objective
+Objective :
 
 Examine missing housing features and relationships affecting house prices.
 
-Steps Performed
+Steps Performed :
 
 •	Loaded housing dataset
 
@@ -95,7 +95,7 @@ Steps Performed
     
     o	Correlation heatmaps
 
-Observations
+Observations :
 
 •	Missing values observed in features such as lot size and bedrooms
 
@@ -113,11 +113,11 @@ Observations
 
 SCENARIO 4: Banking Customer Data
 
-Objective
+Objective :
 
 Understand customer demographics and detect missing banking information.
 
-Steps Performed
+Steps Performed :
 
 •	Imported dataset into Pandas
 
@@ -131,7 +131,7 @@ Steps Performed
     
     o	Spending behavior
 
-Observations
+Observations :
 
 •	Missing values found in Income and Customer profile fields
 

@@ -20,7 +20,9 @@ Steps Performed
 •	Calculated total sales using Quantity × UnitPrice
 
 •	Visualized top products using:
+    
     o	Bar chart
+    
     o	Line chart
 
 Observations
@@ -52,7 +54,9 @@ Steps Performed
 •	Replaced zero values with NaN
 
 •	Visualized:
+    
     o	Glucose levels using histogram
+    
     o	Age distribution using boxplot
 
 •	Analyzed mean health metrics grouped by outcome
@@ -62,7 +66,9 @@ Observations
 •	Zero values were present in Glucose, BloodPressure, BMI, Insulin
 
 •	Patients with diabetes showed:
+    
     o	Higher glucose levels
+    
     o	Higher BMI on average
 
 •	Age distribution showed wider spread among diabetic patients
@@ -84,7 +90,9 @@ Steps Performed
 •	Inspected column types and missing values
 
 •	Visualized relationships using:
+    
     o	Scatter plots
+    
     o	Correlation heatmaps
 
 Observations
@@ -92,7 +100,9 @@ Observations
 •	Missing values observed in features such as lot size and bedrooms
 
 •	Strong correlation found between:
+    
     o	House size and price
+    
     o	Number of rooms and price
 
 •	Visualization helped clearly identify predictors for price estimation
@@ -114,8 +124,11 @@ Steps Performed
 •	Examined data structure and null values
 
 •	Visualized:
+   
     o	Age distribution (bar plot)
+    
     o	Income distribution (box plot)
+    
     o	Spending behavior
 
 Observations
